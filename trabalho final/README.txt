@@ -1,0 +1,1 @@
+O Trabalho final de P1 do meu ano foi criar uma versão funcoinal do jogo de tabuleiro "Othello" na linguagem C.
